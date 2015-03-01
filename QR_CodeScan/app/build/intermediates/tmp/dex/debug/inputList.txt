@@ -1,0 +1,3 @@
+D:\learngit\QR_CodeScan\app\build\intermediates\classes\debug
+D:\learngit\QR_CodeScan\app\build\intermediates\pre-dexed\debug\zxing-686b908587b01b7ac836c63ba0c4c1f676a15ea1.jar
+D:\learngit\QR_CodeScan\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-39e7d7a4026f5c86f63857bef6339264c95083cd.jar

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\learngit\QR_CodeScan\app\libs\zxing.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="D:\learngit\QR_CodeScan\app\build\intermediates\pre-dexed\debug\zxing-686b908587b01b7ac836c63ba0c4c1f676a15ea1.jar" />
+    </item>
+    <item
+        jar="D:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\learngit\QR_CodeScan\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-39e7d7a4026f5c86f63857bef6339264c95083cd.jar" />
+    </item>
+
+</items>
